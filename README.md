@@ -80,6 +80,18 @@ wx.SendScreenshot(name, classname)  # 发送微信窗口的截图给文件传输
 - [点击前往此页面留下您的问题](https://github.com/cluic/wxauto/issues/new/choose)
 - 邮箱：tikic@qq.com
 
+## 后台调用
+**另提供后台调用版本，无需操控鼠标，完全后台接收、发送消息，如有需要可加 QQ271374208**
+
+██████╗&nbsp;███████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╗&nbsp;██████╗&nbsp;███████╗&nbsp;&nbsp;&nbsp;██╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╗&nbsp;&nbsp;██████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╗&nbsp;
+╚════██╗╚════██║&nbsp;&nbsp;███║&nbsp;╚════██╗╚════██║&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;╚════██╗&nbsp;&nbsp;██╔═████╗&nbsp;██╔══██╗
+&nbsp;&nbsp;&nbsp;█████╔╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔╝&nbsp;╚██║&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔╝&nbsp;███████║&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝&nbsp;&nbsp;&nbsp;██║██╔██║&nbsp;╚█████╔╝
+██╔═══╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;╚═══██╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔╝&nbsp;&nbsp;&nbsp;╚════██║&nbsp;██╔═══╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████╔╝██║&nbsp;██╔══██╗
+███████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;██████╔╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;███████╗&nbsp;&nbsp;&nbsp;╚██████╔╝&nbsp;╚█████╔╝
+╚══════╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;╚═════╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;╚══════╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═════╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚════╝&nbsp;
 
 ## 最后
 如果对您有帮助，希望可以帮忙点个Star，如果您正在使用这个项目，可以将右上角的 Unwatch 点为 Watching，以便在我更新或修复某些 Bug 后即使收到反馈，感谢您的支持，非常感谢！
+
+## 免责声明
+代码仅供交流学习使用，请勿用于非法用途和商业用途！如因此产生任何法律纠纷，均与作者无关！
